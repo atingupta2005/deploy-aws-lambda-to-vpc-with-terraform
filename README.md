@@ -12,7 +12,7 @@ terraform init
 ```
 
 ```
-terraform apply
+terraform apply -auto-approve
 ```
 
 Invoke Lambda:
